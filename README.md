@@ -22,3 +22,6 @@
 + Minecraft 1.16.3
 + Imagens do Campus
 + Memória fotográfica dos alunos
+
+# Como instalar?
+### Baixe todos os arquivos presentes no repositório e coloque numa pasta. Após isso, abra a pasta saves e coloque seu mundo lá dentro.
